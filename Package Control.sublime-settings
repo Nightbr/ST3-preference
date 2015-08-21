@@ -1,0 +1,23 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Arduino-like IDE",
+		"CoffeeAngular Syntax",
+		"EJS",
+		"Emmet",
+		"JSONLint",
+		"LESS",
+		"Package Control",
+		"PHP-Twig",
+		"SCSS",
+		"SJSON",
+		"Terminal",
+		"Theme - Soda",
+		"Vagrant"
+	]
+}
